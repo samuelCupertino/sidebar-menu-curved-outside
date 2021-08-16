@@ -38,7 +38,6 @@ nav.side-bar {
     border-left: var(--radius-size) solid var(--color-secondary);
     border-right: var(--radius-size) solid var(--color-primary);
     border-radius: var(--radius-size);
-    margin-left: -1px;
 }
 nav.side-bar .logo-area {
     --curve-size: calc(2 * var(--radius-size));
